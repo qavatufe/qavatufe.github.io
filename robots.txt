@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://qavatufe.github.io/sitemap/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/btV/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/MYR/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/PmS/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/Udq/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/BeL/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/vpT/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/CVa/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/Sqs/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/ywD/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/EJL/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/PgZ/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/rmM/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/OSA/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/nSH/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/Ngm/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/tKy/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/cvY/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/tMm/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/GBW/sitemap_index.qavatufe
+Sitemap: https://qavatufe.github.io/rku/sitemap_index.qavatufe
